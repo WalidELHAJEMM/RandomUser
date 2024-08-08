@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random User</string>
+    <string name="theme_label">Theme</string>
+    <string name="fragment_users_title_label">User</string>
+</resources>
